@@ -1,6 +1,6 @@
 # PremiumMenuQR — Go-To-Market Strategy Playbook
 
-_Last updated: 2026-06-02_
+_Last updated: 2026-06-03_
 
 ## 0. Tesis principal
 
@@ -101,7 +101,7 @@ Señales:
 - QR que abre PDF.
 - Carta alojada en Google Drive.
 - Carta difícil de leer en móvil.
-- Sin idiomas.
+- Sin idiomas suficientes.
 - Carta desactualizada.
 - Menú visualmente pobre.
 - Cambios manuales lentos.
@@ -138,7 +138,7 @@ Incluye:
 - Branding básico.
 - Idiomas según plan.
 - Imágenes/vídeos según plan.
-- Platos destacados.
+- Platos destacados según plan.
 - QR listo para imprimir.
 - Opciones físicas de QR.
 - Analytics según plan.
@@ -195,7 +195,7 @@ Incluye:
 
 - Migración de carta desde CSV/Excel o información estructurada.
 - Productos, precios, raciones y categorías.
-- 2 idiomas.
+- 2 idiomas incluidos.
 - Sin imágenes.
 - Sin vídeos.
 - Branding básico.
@@ -223,14 +223,14 @@ Incluye:
 
 - Todo lo del Setup Básico.
 - Fotos ilimitadas sujetas a gestión responsable.
-- 10 vídeos.
-- 2 idiomas.
+- 10 vídeos incluidos.
+- 2 idiomas incluidos.
 - Configuración de destacados básicos.
 - QR físico básico o diseño listo para imprimir.
 
 Plan recomendado:
 
-- **Essential** o **Core**. Decidir nombre final.
+- **Essential**.
 
 Precio orientativo:
 
@@ -250,16 +250,15 @@ Incluye:
 - Destacados por temporada/mes.
 - Sugerencias del chef.
 - Fotos ilimitadas sujetas a gestión responsable.
-- 20 vídeos.
-- 4 idiomas.
+- 20 vídeos incluidos.
+- 4 idiomas incluidos.
 - Configuración avanzada de categorías, destacados y recomendaciones.
 - Diseño de QR físico premium.
 - Revisión de rendimiento tras el lanzamiento.
 
 Plan recomendado:
 
-- Cambiar “Multilingual” por nombre más premium.
-- Nombre recomendado: **Premium**.
+- **Premium**.
 
 Precio orientativo:
 
@@ -278,7 +277,13 @@ Objetivo:
 - Restaurantes con carta muy grande.
 - Producción visual amplia.
 - Web + SEO + carta.
+- Más vídeos.
+- Más idiomas.
 - Necesidades avanzadas.
+
+Plan recomendado:
+
+- **Personalizado**.
 
 Precio:
 
@@ -294,6 +299,8 @@ Mensaje:
 
 ### Principio de pricing
 
+Los planes deben cuadrar con los setups. El cliente puede contratar un setup para que le dejemos la carta preparada y luego quedarse en el plan mensual correspondiente.
+
 No ser agresivos bajando demasiado el precio. Ser agresivos eliminando fricción.
 
 La mejor oferta no es “somos baratos”, sino:
@@ -304,14 +311,17 @@ La mejor oferta no es “somos baratos”, sino:
 
 **19 €/mes**
 
-Para restaurantes que quieren carta clara y simple.
+Plan asociado:
+
+- **Setup Básico**.
 
 Incluye:
 
 - Carta digital sin imágenes.
 - Sin vídeos.
-- 1 idioma incluido.
+- **2 idiomas incluidos**.
 - Categorías y productos.
+- Productos con nombre, descripción, precio, raciones y alérgenos básicos.
 - QR básico.
 - Personalización básica.
 - Métricas básicas.
@@ -322,46 +332,61 @@ Ideal para:
 - Bares pequeños.
 - Cafeterías.
 - Cartas simples.
-- Clientes muy sensibles a precio.
+- Restaurantes que solo quieren sustituir PDF/Drive por una carta digital clara.
 
-### Plan 2: Essential / Core
+No incluir:
+
+- Fotos.
+- Vídeos.
+- Estrategia de destacados.
+- Analytics avanzado.
+
+### Plan 2: Essential
 
 **39 €/mes**
 
-Nombre pendiente: decidir entre **Essential** o **Core**.
+Plan asociado:
 
-Recomendación: usar **Essential**, porque comunica mejor valor al cliente no técnico.
+- **Setup Visual**.
 
 Incluye:
 
-- Carta con imágenes.
-- 1 idioma incluido.
-- Sin vídeos o vídeos solo vía add-on.
-- Categorías y productos.
+- Todo Basic QR.
+- **2 idiomas incluidos**.
+- Imágenes/fotos ilimitadas sujetas a uso responsable.
+- **10 vídeos incluidos**.
 - Platos destacados básicos.
 - QR personalizado básico.
-- Métricas de uso básicas.
+- Métricas de uso básicas/intermedias.
 - Soporte estándar.
 
 Ideal para:
 
 - Restaurantes independientes.
-- Locales con carta visual pero sin necesidad multidioma.
+- Locales con platos visuales.
+- Restaurantes que quieren mejorar presentación sin ir a una estrategia completa.
 
 ### Plan 3: Premium
 
-Antes “Multilingual”. Mejor llamarlo **Premium**.
-
 **59 €/mes**
+
+Plan asociado:
+
+- **Setup Premium**.
 
 Incluye:
 
-- Carta con imágenes.
-- 3 idiomas incluidos.
-- Platos destacados.
+- Todo Essential.
+- **4 idiomas incluidos**.
+- Fotos ilimitadas sujetas a uso responsable.
+- **20 vídeos incluidos**.
+- Estrategia de platos destacados.
+- Productos de mayor margen destacados.
+- Sugerencias del chef.
+- Destacados por temporada/mes.
 - Recomendados.
-- Métricas intermedias.
-- QR personalizado.
+- Métricas intermedias/avanzadas.
+- Informe mensual básico.
 - Mejor soporte.
 
 Ideal para:
@@ -369,33 +394,48 @@ Ideal para:
 - Restaurantes turísticos.
 - Costa Brava.
 - Girona centro.
-- Restaurantes con cliente internacional.
+- Restaurantes premium.
+- Restaurantes que quieren empujar productos concretos.
 
 ### Plan 4: Personalizado
-
-Antes “Visual Pro”. Mejor llamarlo **Personalizado**.
 
 Precio:
 
 - Desde 89 €/mes o bajo presupuesto.
 
+Plan asociado:
+
+- **Setup Personalizado**.
+
 Incluye según caso:
 
-- Más vídeos.
-- Más idiomas.
+- Más de 4 idiomas.
+- Más de 20 vídeos.
+- Producción visual amplia.
+- Carta grande.
 - Varios locales.
 - Analytics avanzado.
-- Producción visual recurrente.
-- Soporte prioritario.
+- Reportes personalizados.
 - Web + SEO.
 - Integraciones especiales.
+- Soporte prioritario.
 
 Ideal para:
 
 - Multilocales.
 - Restaurantes premium.
 - Grupos pequeños.
+- Hoteles/restaurantes.
 - Clientes con necesidades específicas.
+
+### Matriz rápida de planes
+
+| Plan | Precio | Setup asociado | Idiomas | Imágenes | Vídeos | Destacados | Analytics |
+|---|---:|---|---:|---|---:|---|---|
+| Basic QR | 19 €/mes | Setup Básico | 2 | No | 0 | No | Básico |
+| Essential | 39 €/mes | Setup Visual | 2 | Sí, uso responsable | 10 | Básicos | Básico/intermedio |
+| Premium | 59 €/mes | Setup Premium | 4 | Sí, uso responsable | 20 | Estratégicos | Intermedio/avanzado |
+| Personalizado | Desde 89 €/mes | Setup Personalizado | A medida | A medida | A medida | A medida | Avanzado |
 
 ---
 
@@ -763,6 +803,7 @@ Incluir:
 - Categorías más vistas.
 - Productos más vistos.
 - Clicks en destacados básicos.
+- Reproducciones de vídeo incluidas en el plan.
 
 #### Premium
 
@@ -771,9 +812,10 @@ Incluir:
 - Todo Essential.
 - Idiomas más usados.
 - Productos destacados vs normales.
-- Reproducciones de vídeo si hay add-on.
+- Reproducciones de vídeo.
 - Tendencias semanales.
 - Informe mensual básico.
+- Métricas de platos estratégicos/mayor margen si están configurados.
 
 #### Personalizado
 
@@ -800,12 +842,16 @@ Necesitamos tracking total para saber:
 - Cuánto cuesta gestionar fotos/vídeos.
 - Dónde se escapa margen.
 
-### Métricas financieras
+### Métricas financieras de ingresos
 
 - MRR.
 - ARR.
 - Revenue de setups.
 - Revenue de add-ons.
+- Revenue de planes trimestrales.
+- Revenue de planes anuales.
+- Revenue de packs QR físicos.
+- Revenue de Web + SEO.
 - ARPA.
 - ARPU.
 - LTV.
@@ -819,7 +865,115 @@ Necesitamos tracking total para saber:
 - Descuentos aplicados.
 - Trial to paid conversion.
 - Setup to subscription conversion.
-- Margen por cliente.
+- Margen bruto por cliente.
+- Margen neto por cliente.
+
+### Métricas financieras de gastos
+
+Hay que poder añadir y categorizar gastos desde backoffice/admin.
+
+Gastos a controlar:
+
+#### Gastos de infraestructura
+
+- Supabase.
+- Storage.
+- Base de datos.
+- Ancho de banda.
+- Vercel/hosting.
+- Dominio.
+- Email transaccional.
+- Servicios de vídeo/transcoding si aplica.
+- Monitorización/logs.
+
+#### Gastos de marketing y ventas
+
+- Google Ads.
+- Meta Ads.
+- Herramientas de scraping/prospección.
+- CRM.
+- Email outreach.
+- Teléfono/SIM.
+- Creatividades.
+- Diseño.
+- Comisiones comerciales.
+
+#### Gastos de producción visual
+
+- Fotografía.
+- Vídeo.
+- Edición.
+- Desplazamientos.
+- Dietas/parking.
+- Material de grabación.
+- Freelancers.
+- Tiempo interno valorado por hora.
+
+#### Gastos de QR físico
+
+- Pegatinas.
+- Impresión.
+- Placas acrílicas.
+- Placas metálicas.
+- Maderas personalizadas.
+- Soportes de mesa.
+- Envíos.
+- Instalación.
+- Proveedores externos.
+
+#### Gastos de operación
+
+- Soporte.
+- Gestión de cliente.
+- Reuniones.
+- Revisiones.
+- Cambios manuales.
+- Facturación/gestoría.
+- Pasarelas de pago.
+- Comisiones Stripe.
+- Impuestos no deducibles si aplica.
+
+#### Gastos de desarrollo
+
+- Herramientas IA.
+- APIs.
+- Librerías/servicios.
+- Testing.
+- Diseño UI.
+- Mantenimiento técnico.
+
+### Campos recomendados para cada gasto
+
+- Fecha.
+- Tipo de gasto.
+- Subtipo.
+- Proveedor.
+- Cliente asociado si aplica.
+- Proyecto asociado si aplica.
+- Importe sin IVA.
+- IVA.
+- Importe total.
+- Recurrencia: único/mensual/anual.
+- Método de pago.
+- Factura/recibo adjunto.
+- Deducible: sí/no/pendiente.
+- Notas.
+
+### Métricas de rentabilidad
+
+- Coste total por cliente.
+- Coste mensual por cliente.
+- Coste de setup por cliente.
+- Coste visual por cliente.
+- Coste QR físico por cliente.
+- Margen por setup.
+- Margen por plan.
+- Margen por add-on.
+- Margen por pack físico.
+- Rentabilidad por canal.
+- Rentabilidad por plan.
+- Rentabilidad por tipo de restaurante.
+- Clientes no rentables.
 
 ### Métricas comerciales
 
@@ -845,6 +999,7 @@ Necesitamos tracking total para saber:
 - Signup completed.
 - Onboarding started.
 - Restaurante creado.
+- Modo elegido.
 - Branding completado.
 - Primer producto creado.
 - Primera categoría creada.
@@ -922,7 +1077,6 @@ Objetivo:
 - `signup_completed`
 - `onboarding_started`
 - `restaurant_created`
-- `branding_completed`
 - `setup_mode_selected`
 - `first_category_created`
 - `first_product_created`
@@ -962,6 +1116,9 @@ Objetivo:
 - `analytics_viewed`
 - `plan_upgraded`
 - `addon_purchased`
+- `expense_created`
+- `expense_updated`
+- `physical_qr_order_created`
 
 ---
 
@@ -982,34 +1139,47 @@ Motivo:
 
 ### Modos recomendados
 
-En “Elegir modo”, usar:
+En “Elegir modo”, usar solo:
 
 1. **Crear carta desde cero**
    - Para self-serve.
+   - El usuario añade categorías/productos manualmente.
 
-2. **Empezar con plantilla demo**
-   - Para ver valor rápido.
-
-3. **Subir CSV/Excel**
-   - Solo si está preparado.
+2. **Subir CSV/Excel**
+   - Para cartas estructuradas.
+   - Ideal para Setup Básico o clientes que ya tienen datos ordenados.
    - Puede ser semi-manual al principio.
 
-4. **Solicitar setup hecho por nosotros**
+3. **Solicitar setup hecho por nosotros**
    - Para clientes con más intención y menos tiempo.
+   - Deriva a formulario/contacto comercial.
+   - Permite vender Setup Básico, Visual, Premium o Personalizado.
 
 ### Flujo ideal
 
 1. Crear cuenta.
 2. Datos básicos del restaurante.
-3. Elegir modo.
-4. Elegir plan recomendado o setup.
-5. Crear primera categoría.
-6. Crear primer producto.
-7. Ver preview de carta.
-8. Generar QR.
-9. Completar branding.
-10. Añadir idiomas/imágenes/vídeos.
-11. Checkout/trial.
+3. Elegir modo: desde cero, CSV/Excel o setup hecho por nosotros.
+4. Si elige desde cero: crear primera categoría.
+5. Crear primer producto.
+6. Ver preview de carta.
+7. Generar QR.
+8. Completar branding.
+9. Añadir idiomas/imágenes/vídeos según plan.
+10. Checkout/trial.
+
+### Flujo para “Solicitar setup hecho por nosotros”
+
+1. Datos del restaurante.
+2. Tipo de setup deseado.
+3. Subir carta/CSV/Excel o dejar enlace a carta actual.
+4. Indicar idiomas necesarios.
+5. Indicar si quiere fotos/vídeos.
+6. Indicar si quiere QR físico.
+7. Indicar si quiere web + SEO.
+8. Enviar solicitud.
+9. Crear lead interno en CRM.
+10. Contactar por WhatsApp/call.
 
 ### Principio clave
 
@@ -1525,8 +1695,8 @@ No apliques cambios en código hasta que se pidan explícitamente.
 
 ## 26. Decisiones pendientes
 
-1. Elegir nombre final entre **Essential** y **Core**.
-   - Recomendación: Essential.
+1. Confirmar nombre final del plan **Essential**.
+   - Recomendación: mantener Essential.
 
 2. Confirmar precios finales:
    - Basic QR: 19 €/mes.
@@ -1547,6 +1717,8 @@ No apliques cambios en código hasta que se pidan explícitamente.
 6. Crear demos reales.
 
 7. Validar con 10 entrevistas antes de escalar ads.
+
+8. Definir modelo de gastos interno y panel de rentabilidad.
 
 ---
 
