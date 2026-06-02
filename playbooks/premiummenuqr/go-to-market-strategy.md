@@ -1,293 +1,662 @@
-# PremiumMenuQR Go-To-Market Strategy Playbook
+# PremiumMenuQR — Go-To-Market Strategy Playbook
 
 _Last updated: 2026-06-02_
 
-## Executive summary
+## 0. Tesis principal
 
-PremiumMenuQR should not be sold as another QR menu.
+PremiumMenuQR no debe venderse como “otro menú QR”.
 
-It should be sold as:
+El mercado de menús QR está comoditizado. Muchos restaurantes ya tienen un QR, un PDF, una carta en Google Drive, una carta subida a la web o un enlace en Instagram. Por eso, competir solo como “creador de cartas QR” nos empuja a competir contra herramientas baratas o gratuitas.
 
-> A visual, multilingual and measurable digital menu that helps restaurants sell better dishes, update their menu without PDFs and understand what customers view.
-
-The winning strategy is hybrid:
-
-1. **High-touch local sales first** to validate positioning and get the first 10-30 paying restaurants.
-2. **Done-for-you setup/content offer** to reduce friction and create cash upfront.
-3. **SaaS subscription behind it** to build monthly recurring revenue.
-4. **Demos and proof assets** before heavy ad spend.
-5. **SEO and content as compounding acquisition**, but not as the initial growth engine.
-6. **Paid ads only after demo, landing, tracking and offer are proven.**
-
-The short-term goal is not “scale ads”. The short-term goal is:
-
-- Build an irresistible demo.
-- Speak to restaurant owners.
-- Get proof.
-- Track usage.
-- Turn proof into landing, ads, cold outreach and SEO.
-
----
-
-## 1. Positioning
-
-### Bad positioning
-
-- “Menú QR para restaurantes.”
-- “Crea tu carta digital.”
-- “Software de carta online.”
-- “Sustituye tu PDF por un QR.”
-
-These are commoditized and invite price comparison.
-
-### Winning positioning
+La posición ganadora es:
 
 > Convierte tu carta QR en una herramienta visual de venta.
 
-Supporting message:
+Mensaje ampliado:
 
-> PremiumMenuQR ayuda a restaurantes a mostrar sus platos con una carta móvil premium, vídeo, varios idiomas y analítica para saber qué miran sus clientes.
+> PremiumMenuQR ayuda a restaurantes a sustituir el PDF por una carta móvil premium, visual, multilingüe y medible, pensada para destacar platos estratégicos, mejorar la experiencia del cliente y saber qué miran los comensales.
 
-### Why this works
+La estrategia correcta es híbrida:
 
-Most restaurants already understand QR menus. The pain is not “I cannot generate a QR”. The pain is:
-
-- My menu looks poor on mobile.
-- My PDF is slow and outdated.
-- I cannot easily update dishes/prices.
-- Tourists do not understand the menu.
-- I do not know what customers view.
-- My best/high-margin dishes do not stand out enough.
-
-PremiumMenuQR should own the gap between a static PDF menu and a full restaurant operating system.
+1. **Venta local high-touch al principio**: llamadas, visitas, demos personalizadas y cierre manual.
+2. **Setup hecho por nosotros**: reducir fricción para restaurantes que no tienen tiempo ni equipo técnico.
+3. **SaaS mensual detrás**: construir MRR con planes claros y add-ons.
+4. **Demos y pruebas visuales antes de invertir fuerte en ads**.
+5. **SEO y contenido como canal compuesto**, pero no como primer motor de ventas.
+6. **Paid ads solo cuando landing, demos, tracking y oferta estén validados**.
 
 ---
 
-## 2. Ideal customer profile
+## 1. Posicionamiento
 
-### Tier 1 ICP: Tourist restaurants with visual dishes
+### Posicionamiento débil
 
-Best for early sales.
+Evitar mensajes como:
 
-Examples:
+- “Menú QR para restaurantes”.
+- “Crea tu carta digital”.
+- “Generador de QR para tu carta”.
+- “Sustituye tu carta en papel por un QR”.
 
-- Restaurants in Girona/Costa Brava/Barcelona.
+Estos mensajes son demasiado genéricos y hacen que el cliente compare solo precio.
+
+### Posicionamiento fuerte
+
+Usar mensajes como:
+
+- “Tu carta QR puede vender mucho más que un PDF”.
+- “Una carta digital premium para enseñar mejor tus platos”.
+- “Carta QR visual, multilingüe y medible para restaurantes”.
+- “Destaca tus platos más rentables desde el QR de cada mesa”.
+- “De PDF estático a carta visual con analítica”.
+
+### Propuesta de valor
+
+PremiumMenuQR debe ocupar el espacio entre:
+
+- Un PDF barato y estático.
+- Un software complejo de gestión de restaurante.
+
+El hueco ganador:
+
+> Una carta visual y fácil de actualizar, sin complejidad operativa, con diseño premium, idiomas, QR físico y analítica útil.
+
+---
+
+## 2. ICP — Cliente ideal
+
+### ICP 1: Restaurantes turísticos con platos visuales
+
+Prioridad máxima para venta inicial.
+
+Ejemplos:
+
+- Restaurantes en Girona.
+- Restaurantes en Costa Brava.
+- Restaurantes en Barcelona.
 - Beach clubs.
-- Cocktail bars.
+- Coctelerías.
+- Arrocerías.
 - Tapas/gastro bars.
-- Brunch/cafe concepts.
-- Hotel restaurants.
-- Restaurants with good Instagram but bad menu experience.
-- Restaurants with foreign customers.
+- Brunch/cafeterías cuidadas.
+- Restaurantes de hotel.
+- Restaurantes con Instagram trabajado pero carta pobre.
+- Locales con cliente extranjero.
 
-Why they convert:
+Por qué convierten:
 
-- Multilingual value is obvious.
-- Visual menu value is obvious.
-- Owners care about presentation.
-- They can justify 39-99 €/month.
-- They have dishes/cocktails worth showing.
+- El valor multidioma es obvio.
+- El valor visual es obvio.
+- Les importa la presentación.
+- Tienen platos/cócteles que merecen verse.
+- Pueden justificar 39–99 €/mes.
+- Pueden pagar setup si se les entrega hecho.
 
-### Tier 2 ICP: Independent restaurants with PDF QR
+### ICP 2: Restaurantes independientes con QR/PDF malo
 
-Good for outbound volume.
+Buenos para volumen outbound.
 
-Signals:
+Señales:
 
-- QR opens a PDF.
-- Menu is hosted on Google Drive.
-- Menu is hard to read on mobile.
-- Menu is outdated or visually poor.
-- No English/Catalan/Spanish versions.
+- QR que abre PDF.
+- Carta alojada en Google Drive.
+- Carta difícil de leer en móvil.
+- Sin idiomas.
+- Carta desactualizada.
+- Menú visualmente pobre.
+- Cambios manuales lentos.
 
-### Tier 3 ICP: Small restaurant groups
+### ICP 3: Pequeños grupos/multilocal
 
-Best for later.
+Prioridad posterior.
 
-Why later:
+Motivo:
 
-- Higher ARPA.
-- More complex sales.
-- Need better proof, onboarding and support.
+- Mayor ticket.
+- Más complejidad de venta.
+- Necesitan gestión multi-local.
+- Necesitan más soporte.
+- Exigen más prueba y fiabilidad.
+
+Para multilocales, el precio debe ser **personalizado sí o sí**.
 
 ---
 
-## 3. Offer architecture
+## 3. Arquitectura de oferta
 
-Do not sell only subscription at the beginning.
+No debemos vender solo suscripción. Debemos vender un resultado.
 
-Sell a packaged outcome.
-
-### Main offer
+### Producto base
 
 **Carta Digital Premium para restaurantes**
 
-Includes:
+Incluye:
 
-- Public QR menu.
-- Categories and dishes.
-- Visual layout.
-- Basic branding.
-- QR ready to print.
-- Analytics dashboard.
-- Optional languages.
-- Optional photos/videos.
+- Carta pública con URL y QR.
+- Categorías y productos.
+- Diseño mobile-first.
+- Branding básico.
+- Idiomas según plan.
+- Imágenes/vídeos según plan.
+- Platos destacados.
+- QR listo para imprimir.
+- Opciones físicas de QR.
+- Analytics según plan.
+- Panel de administración.
 
-### Self-serve offer
+### Oferta ampliada
 
-For lower intent customers.
+Además de la carta, ofrecer como upsell:
 
-- Free trial.
-- They create the account.
-- They upload their own content.
-- They choose a plan.
+> Carta QR Premium + Web + SEO + Suscripción mensual.
 
-### Done-for-you offer
+Este pack debe venderse a restaurantes que no solo necesitan una carta, sino una presencia digital completa.
 
-For local sales.
+#### Pack Web + SEO recomendado
 
-This should be the main early revenue path.
+**CartaQR Growth Pack**
 
-Possible package:
+Incluye:
 
-**Setup Express — 249 €**
+- Carta digital PremiumMenuQR.
+- Landing/web del restaurante.
+- SEO local básico.
+- Google Business Profile si aplica.
+- Integración de carta en web.
+- CTA a reservas/WhatsApp/teléfono.
+- Analítica básica.
+- Suscripción mensual de mantenimiento.
 
-- Menu migration from PDF.
-- Categories and products uploaded.
-- Branding configured.
-- QR generated.
-- 1 revision.
-- Subscription paid separately.
+Uso:
 
-**Setup Visual — 499 €**
+- Restaurantes sin web.
+- Restaurantes con web mala.
+- Restaurantes turísticos que quieren captar búsquedas locales.
+- Restaurantes con marca premium.
 
-- Everything in Setup Express.
-- 10 dish photos/videos.
-- Highlighted dishes configured.
-- Basic analytics setup.
-- Subscription paid separately.
+Pricing orientativo:
 
-**Setup Premium — 899 €+**
-
-- Everything in Setup Visual.
-- 30 dish photos/videos.
-- Multilingual structure.
-- High-margin dish strategy.
-- QR table assets.
-- Subscription paid separately.
-
-Why this matters:
-
-Restaurants buy implementation, not software. The subscription becomes easier when the painful setup is removed.
+- Setup web + carta: desde 1.500–3.500 €.
+- Mensualidad: desde 99–249 €/mes según soporte/SEO.
 
 ---
 
-## 4. Pricing strategy
+## 4. Setups
 
-Current hypothesis:
+Los setups reducen la fricción principal: “no tengo tiempo para configurar esto”.
 
-- Core: 39 €/month.
-- Pro: 69 €/month.
+La suscripción mensual se paga aparte. El setup es cobro único.
 
-Recommended evolution:
+### Setup Básico
+
+**Objetivo:** pasar de carta actual a carta digital funcional.
+
+Incluye:
+
+- Migración de carta desde CSV/Excel o información estructurada.
+- Productos, precios, raciones y categorías.
+- 2 idiomas.
+- Sin imágenes.
+- Sin vídeos.
+- Branding básico.
+- QR básico generado.
+- Revisión inicial.
+
+Plan recomendado:
+
+- **Basic QR**.
+
+Precio orientativo:
+
+- 149–249 €.
+
+Notas:
+
+- No ofrecer importación por PDF como modo self-serve en onboarding.
+- Si el cliente solo tiene PDF, internamente podemos usarlo como material de migración manual, pero no prometer “importar PDF automáticamente”.
+
+### Setup Visual
+
+**Objetivo:** carta más atractiva visualmente para vender mejor.
+
+Incluye:
+
+- Todo lo del Setup Básico.
+- Fotos ilimitadas sujetas a gestión responsable.
+- 10 vídeos.
+- 2 idiomas.
+- Configuración de destacados básicos.
+- QR físico básico o diseño listo para imprimir.
+
+Plan recomendado:
+
+- **Essential** o **Core**. Decidir nombre final.
+
+Precio orientativo:
+
+- 399–599 €.
+
+Nota sobre “fotos ilimitadas”: usar siempre la coletilla “sujeto a gestión responsable”. No venderlo como producción infinita sin límite operativo.
+
+### Setup Premium
+
+**Objetivo:** convertir la carta en herramienta estratégica de venta.
+
+Incluye:
+
+- Todo lo del Setup Visual.
+- Estrategia de platos destacados.
+- Identificación de productos de mayor margen.
+- Destacados por temporada/mes.
+- Sugerencias del chef.
+- Fotos ilimitadas sujetas a gestión responsable.
+- 20 vídeos.
+- 4 idiomas.
+- Configuración avanzada de categorías, destacados y recomendaciones.
+- Diseño de QR físico premium.
+- Revisión de rendimiento tras el lanzamiento.
+
+Plan recomendado:
+
+- Cambiar “Multilingual” por nombre más premium.
+- Nombre recomendado: **Premium**.
+
+Precio orientativo:
+
+- 799–1.200 €.
+
+### Setup Personalizado
+
+Antes llamado Visual Pro. Mejor cambiar a:
+
+**Setup Personalizado**
+
+Objetivo:
+
+- Casos especiales.
+- Multilocales.
+- Restaurantes con carta muy grande.
+- Producción visual amplia.
+- Web + SEO + carta.
+- Necesidades avanzadas.
+
+Precio:
+
+- Bajo presupuesto personalizado.
+
+Mensaje:
+
+> Si necesitas algo más específico, nos adaptamos al caso: carta, idiomas, fotografía/vídeo, QR físico, web, SEO o multilocal.
+
+---
+
+## 5. Planes de suscripción
+
+### Principio de pricing
+
+No ser agresivos bajando demasiado el precio. Ser agresivos eliminando fricción.
+
+La mejor oferta no es “somos baratos”, sino:
+
+> Te lo dejamos montado y funcionando.
 
 ### Plan 1: Basic QR
 
-**19 €/month**
+**19 €/mes**
 
-For price-sensitive customers.
+Para restaurantes que quieren carta clara y simple.
 
-- No videos.
-- No images or very limited images.
-- 1 language.
-- Basic QR menu.
-- Basic customization.
-- No advanced analytics.
+Incluye:
 
-Purpose: capture businesses that only compare against PDF/cheap QR tools.
+- Carta digital sin imágenes.
+- Sin vídeos.
+- 1 idioma incluido.
+- Categorías y productos.
+- QR básico.
+- Personalización básica.
+- Métricas básicas.
+- Soporte básico.
 
-### Plan 2: Essential
+Ideal para:
 
-**39 €/month**
+- Bares pequeños.
+- Cafeterías.
+- Cartas simples.
+- Clientes muy sensibles a precio.
 
-- Images allowed.
-- 1 language.
-- Basic analytics.
-- Categories/products.
-- QR link.
-- Basic support.
+### Plan 2: Essential / Core
 
-This becomes the default for restaurants that want a better digital menu but do not need video/multilingual.
+**39 €/mes**
 
-### Plan 3: Multilingual
+Nombre pendiente: decidir entre **Essential** o **Core**.
 
-**59 €/month**
+Recomendación: usar **Essential**, porque comunica mejor valor al cliente no técnico.
 
-- Images allowed.
-- 3 languages.
-- Basic analytics.
-- Recommended/featured dishes.
-- Better for tourist restaurants.
+Incluye:
 
-This is strong for Girona/Costa Brava.
+- Carta con imágenes.
+- 1 idioma incluido.
+- Sin vídeos o vídeos solo vía add-on.
+- Categorías y productos.
+- Platos destacados básicos.
+- QR personalizado básico.
+- Métricas de uso básicas.
+- Soporte estándar.
 
-### Plan 4: Visual Pro
+Ideal para:
 
-**89 €/month**
+- Restaurantes independientes.
+- Locales con carta visual pero sin necesidad multidioma.
 
-- Up to 30 videos.
-- 3 languages.
-- Advanced analytics.
-- Featured/high-margin dishes.
-- Priority support.
+### Plan 3: Premium
 
-This should be the flagship plan.
+Antes “Multilingual”. Mejor llamarlo **Premium**.
 
-### Add-ons
+**59 €/mes**
 
-- Extra language: +10 €/month.
-- Extra video pack: +10-20 €/month.
-- Done-for-you setup: 249-899 € one-time.
-- Annual plan: 2 months free.
-- Multi-location pricing: custom.
+Incluye:
 
-### Should we be aggressive?
+- Carta con imágenes.
+- 3 idiomas incluidos.
+- Platos destacados.
+- Recomendados.
+- Métricas intermedias.
+- QR personalizado.
+- Mejor soporte.
 
-Be aggressive on setup friction, not on price.
+Ideal para:
 
-Do:
+- Restaurantes turísticos.
+- Costa Brava.
+- Girona centro.
+- Restaurantes con cliente internacional.
 
-- Offer first local customers a founder deal.
-- Offer free setup in exchange for testimonial/case study.
-- Offer 14-30 day trial only after the menu is live.
+### Plan 4: Personalizado
 
-Do not:
+Antes “Visual Pro”. Mejor llamarlo **Personalizado**.
 
-- Race to 9 €/month.
-- Compete with generic QR menu tools.
-- Hide pricing completely.
+Precio:
 
-Early market needs trust and implementation, not just cheap software.
+- Desde 89 €/mes o bajo presupuesto.
+
+Incluye según caso:
+
+- Más vídeos.
+- Más idiomas.
+- Varios locales.
+- Analytics avanzado.
+- Producción visual recurrente.
+- Soporte prioritario.
+- Web + SEO.
+- Integraciones especiales.
+
+Ideal para:
+
+- Multilocales.
+- Restaurantes premium.
+- Grupos pequeños.
+- Clientes con necesidades específicas.
 
 ---
 
-## 5. Landing page strategy
+## 6. Extras y descuentos
 
-### Core landing page sections
+### Add-ons mensuales
 
-1. Hero: outcome + demo CTA.
-2. Interactive demo preview.
-3. Problem: PDF QR menus are not enough.
-4. Visual selling: images/videos/high-margin dishes.
-5. Multilingual: Spanish/Catalan/English.
-6. Analytics: know what customers view.
-7. Done-for-you setup.
-8. Pricing.
-9. Before/after PDF vs PremiumMenuQR.
-10. FAQ/objections.
-11. Final CTA.
+- Idioma extra: **+5,99 €/mes** por idioma.
+- Pack de 10 vídeos: **+12,99 €/mes**.
+- Pack de 20 vídeos: **+19,99 €/mes**.
 
-### Hero copy
+Notas:
+
+- El add-on de vídeo debe estar asociado a límites claros de almacenamiento y gestión.
+- Si el coste de storage/transcoding sube, revisar precios.
+- No vender “vídeo ilimitado” en suscripción barata.
+
+### Descuentos por permanencia
+
+- Plan trimestral: **5% de descuento**.
+- Plan anual: **15% de descuento**.
+
+Recomendación:
+
+- Empujar anual después de que el cliente vea valor.
+- Para primeros clientes, ofrecer anual con setup bonificado solo si se consigue testimonio/caso real.
+
+### Multilocal
+
+Siempre personalizado.
+
+Motivo:
+
+- Necesitan más soporte.
+- Pueden tener varias cartas.
+- Pueden requerir permisos, usuarios, marcas y analítica agregada.
+- El valor para ellos es mayor.
+
+---
+
+## 7. Opciones físicas de QR y layouts
+
+Esto puede ser un diferenciador importante. Muchos competidores se quedan en software. Nosotros podemos vender experiencia completa.
+
+### Opciones de layout digital del QR
+
+Crear plantillas visuales:
+
+1. **Minimal QR**
+   - QR limpio.
+   - Logo.
+   - Texto: “Ver carta”.
+   - Ideal para Basic QR.
+
+2. **Branded QR**
+   - Logo.
+   - Colores de marca.
+   - Nombre del restaurante.
+   - CTA: “Escanea nuestra carta”.
+   - Ideal para Essential.
+
+3. **Premium Table Card**
+   - Diseño vertical para mesa.
+   - QR + instrucciones.
+   - Branding más cuidado.
+   - Ideal para Premium.
+
+4. **Multilingual QR Card**
+   - Mensaje en varios idiomas.
+   - Ejemplo: “Carta / Menu / Carte”.
+   - Ideal para turismo.
+
+5. **Seasonal QR**
+   - Diseño temporal por campaña.
+   - Verano, Navidad, menú especial, temporada de arroces.
+
+6. **Chef Recommendation QR**
+   - QR con mensaje tipo “Descubre las sugerencias del chef”.
+   - Útil para dirigir atención a destacados.
+
+### Opciones físicas donde colocar el QR
+
+Ofrecer como extra o incluido según setup:
+
+- Pegatinas básicas.
+- Pegatinas premium resistentes.
+- Carteles de mesa.
+- Tarjetas plastificadas.
+- Placas acrílicas.
+- Placas metálicas.
+- Maderas personalizadas.
+- Soportes de mesa.
+- QR en carta física.
+- QR en escaparate.
+- QR en servilletero.
+- QR en barra.
+- QR en habitación si aplica hotel/restaurante.
+
+### Packs físicos
+
+#### Pack QR Básico
+
+- Diseño QR.
+- Archivo listo para imprimir.
+- 1 layout.
+
+#### Pack QR Mesa
+
+- Diseño QR.
+- 20–50 unidades de mesa.
+- Pegatinas o tarjetas.
+
+#### Pack QR Premium
+
+- Diseño personalizado.
+- Placas/maderas/acrílicos.
+- Diferentes layouts por zona.
+- Instalación opcional.
+
+Recomendación:
+
+- No complicar la app con esto al principio.
+- Venderlo como servicio/manual al inicio.
+- Más adelante, crear catálogo de materiales.
+
+---
+
+## 8. Demo strategy
+
+Necesitamos 3 demos principales.
+
+### Demo 1: Restaurante premium/gastronómico
+
+Objetivo:
+
+- Vender calidad visual.
+- Enseñar vídeos.
+- Enseñar platos destacados.
+- Enseñar experiencia premium.
+
+Características:
+
+- Branding elegante.
+- Categorías: entrantes, arroces, carnes, pescados, postres, bebidas.
+- Platos destacados.
+- Productos de alto margen.
+- Vídeos en detalles de producto.
+- Alérgenos.
+- ES/CA/EN.
+
+### Demo 2: Beach club / cocktail bar Costa Brava
+
+Objetivo:
+
+- Vender turismo, bebida visual e idiomas.
+
+Características:
+
+- Cocktails con imagen/vídeo.
+- Idiomas ES/CA/EN/FR.
+- Destacados por temporada.
+- Diseño fresco/premium.
+- QR de mesa turístico.
+
+### Demo 3: Bar/cafetería simple
+
+Objetivo:
+
+- Demostrar que también funciona sin imágenes ni vídeos.
+
+Características:
+
+- Sin imágenes.
+- Sin vídeos.
+- Carta rápida.
+- Categorías simples.
+- Precio bajo.
+- Basic QR.
+
+### Qué significa cada asset de demo
+
+#### Vídeo de pantalla de 20 segundos
+
+Una grabación corta del móvil navegando por la carta.
+
+Objetivo:
+
+- Que el restaurante vea el producto sin registrarse.
+- Usarlo en WhatsApp, email, landing y ads.
+- Enseñar en 20 segundos: QR > carta > categoría > plato > vídeo/destacado > idiomas.
+
+Formato:
+
+- Vertical 9:16.
+- 15–25 segundos.
+- Sin explicación larga.
+- Texto superpuesto con beneficio.
+
+Ejemplo de estructura:
+
+1. “Así se ve tu carta desde el QR”.
+2. Se abre la demo.
+3. Se navega por categorías.
+4. Se entra en un plato con vídeo.
+5. Se cambia idioma.
+6. Cierre: “¿Quieres verla con tu carta?”.
+
+#### Mensaje de WhatsApp listo para enviar
+
+Texto corto para enviar al propietario junto con la demo.
+
+Ejemplo:
+
+> Hola {{nombre}}, te paso una demo rápida de cómo podría verse una carta QR más visual y fácil de actualizar para {{restaurante}}. La idea no es solo tener un QR, sino que la carta ayude a destacar platos, idiomas y productos importantes. Si te encaja, puedo prepararte una versión inicial con vuestra carta.
+
+#### Mini caso de uso
+
+No es un caso de éxito completo. Es una historia de 3–5 líneas que explica para quién sirve esa demo.
+
+Ejemplo:
+
+> Restaurante turístico en Costa Brava con clientes extranjeros. Necesita carta clara en varios idiomas, destacar platos de temporada y evitar PDFs difíciles de leer en móvil. PremiumMenuQR permite mostrar la carta desde un QR, cambiar idiomas y medir qué platos reciben más atención.
+
+#### Antes/después contra PDF o QR anterior
+
+Comparativa visual y argumental entre:
+
+- Lo que tiene el restaurante ahora.
+- Lo que tendría con PremiumMenuQR.
+
+Comparar:
+
+- Tiempo de carga.
+- Lectura móvil.
+- Diseño.
+- Idiomas.
+- Platos destacados.
+- Actualización.
+- Analítica.
+
+---
+
+## 9. Landing page strategy
+
+### Estructura recomendada
+
+1. Hero con demo visible.
+2. Problema: “tener QR no significa tener buena carta”.
+3. Antes/después PDF/QR antiguo vs PremiumMenuQR.
+4. Beneficio visual: fotos, vídeos, destacados.
+5. Beneficio multidioma.
+6. Beneficio de actualización rápida.
+7. Analytics: saber qué miran los clientes.
+8. Setups: te lo dejamos montado.
+9. Opciones físicas de QR.
+10. Web + SEO + carta como upsell.
+11. Pricing.
+12. FAQs.
+13. CTA final.
+
+### Hero recomendado
 
 Headline:
 
@@ -295,440 +664,265 @@ Headline:
 
 Subheadline:
 
-> Crea una carta digital premium con platos visuales, varios idiomas y analítica para saber qué miran tus clientes. Ideal para restaurantes que quieren una experiencia móvil más cuidada y fácil de actualizar.
+> PremiumMenuQR convierte tu carta en una experiencia móvil visual, multilingüe y medible, pensada para destacar platos, actualizar precios rápido y mejorar la experiencia del cliente desde cada mesa.
 
-Primary CTA:
+CTA principal:
 
 > Ver demo de carta
 
-Secondary CTA:
+CTA secundario:
 
 > Solicitar setup para mi restaurante
 
-### Why demo CTA first
+### Bloque de oferta ampliada
 
-Restaurant owners do not want to read software copy. They need to see the menu.
+Título:
 
-The demo is the sales asset.
+> ¿Quieres algo más que una carta?
 
----
+Copy:
 
-## 6. Demo strategy
+> También podemos ayudarte con una solución completa: carta QR premium, web para tu restaurante, SEO local y mantenimiento mensual. Ideal si quieres mejorar cómo te encuentran, cómo te ven y cómo conviertes clientes online.
 
-You need 3 demos, not 1.
+CTA:
 
-### Demo 1: Restaurant premium/gastronomic
-
-Purpose: sell visual quality.
-
-Features:
-
-- Strong hero restaurant branding.
-- Categories: Entrantes, Arroces, Carnes, Pescados, Postres, Bebidas.
-- Featured/high-margin dishes.
-- Product detail with video.
-- Allergens.
-- ES/CA/EN.
-
-Use it for:
-
-- Landing.
-- Cold outreach.
-- Sales calls.
-- Paid ads.
-
-### Demo 2: Tourist beach club/cocktail bar
-
-Purpose: sell multilingual and visual drinks/food.
-
-Features:
-
-- Cocktails with videos.
-- Language switcher.
-- Desserts/drinks highlighted.
-- QR scan tracking simulation.
-
-Use it for Costa Brava.
-
-### Demo 3: Simple bar/cafe
-
-Purpose: show that it is not only for fancy restaurants.
-
-Features:
-
-- No videos.
-- Basic images or no images.
-- Fast category browsing.
-- Low-friction setup.
-
-Use it to sell Basic/Essential plans.
-
-### Demo asset checklist
-
-Each demo should have:
-
-- Public menu URL.
-- QR image.
-- 20-second screen recording.
-- Before/after comparison from PDF.
-- Mini case study format.
-- WhatsApp-ready pitch.
+> Quiero carta + web + SEO
 
 ---
 
-## 7. Customer research
+## 10. Analytics para clientes
 
-Do this before spending hard on ads.
+La analítica debe venderse como control comercial:
 
-### Interview targets
+> Más estadísticas implican más control sobre lo que vendes.
 
-- 10 restaurant owners.
-- 5 managers.
-- 5 waiters/servers.
-- 5 customers who often scan QR menus.
+No todos los planes deben tener las mismas métricas.
 
-### Questions for owners/managers
+### Métricas posibles para el cliente
 
-1. How do customers access your current menu?
-2. What do you dislike about your current QR/PDF/menu?
-3. How often do you change dishes or prices?
-4. Do you have tourists? Which languages matter?
-5. Which dishes do you wish customers ordered more?
-6. Do you know which dishes customers look at most?
-7. Who updates the menu today?
-8. What would make you pay monthly for a digital menu?
-9. What would make you not buy this?
-10. Would you prefer to configure it yourself or have it done for you?
-11. What price would feel cheap/fair/expensive?
-12. Would photos/videos help sell your dishes?
+#### Métricas básicas
 
-### Questions for waiters
+- Escaneos QR.
+- Aperturas de carta.
+- Visitas totales.
+- Visitas por día.
+- Visitas por hora.
+- Dispositivo aproximado.
+- Idioma seleccionado.
 
-1. What menu questions do customers ask repeatedly?
-2. Do tourists struggle with the menu?
-3. Which dishes are hard to explain?
-4. Which dishes do you try to recommend?
-5. Would a visual menu save time?
+#### Métricas de carta
 
-### Research output
+- Categorías más vistas.
+- Productos más vistos.
+- Productos menos vistos.
+- Tiempo aproximado en carta.
+- Clicks en productos destacados.
+- Clicks en recomendaciones.
+- Cambios de idioma.
+- Visualización de alérgenos.
+- Clicks en teléfono/WhatsApp/reserva si existe.
 
-Turn interviews into:
+#### Métricas visuales
 
-- Objection list.
-- Exact customer phrases.
-- Pricing willingness.
-- Demo priorities.
-- Feature priorities.
-- Landing copy.
-- Cold call hooks.
+- Reproducciones de vídeo.
+- Productos con más reproducciones.
+- Ratio producto visto > vídeo reproducido.
+- Imágenes/vídeos con mejor engagement.
 
----
+#### Métricas estratégicas
 
-## 8. Lead sourcing
+- Platos de alto margen más vistos.
+- Platos destacados más vistos.
+- Rendimiento de sugerencias del chef.
+- Rendimiento por temporada.
+- Comparativa entre productos destacados y no destacados.
+- Tendencias por semana/mes.
 
-### Manual local prospecting
+### Analytics por plan
 
-Start here.
+#### Basic QR
 
-Sources:
+Incluir:
 
-- Google Maps.
-- Restaurant websites.
-- Instagram bios.
-- TripAdvisor/TheFork-style listings.
-- Local directories.
-- Walking routes in Girona/Costa Brava.
-- Restaurants with QR stickers on tables.
+- Escaneos QR.
+- Aperturas de carta.
+- Visitas por día.
+- Idioma usado si aplica.
 
-### Lead scoring
+No incluir:
 
-Score each lead 0-10.
+- Productos más vistos.
+- Vídeos.
+- Analytics avanzado.
 
-High score signals:
+#### Essential
 
-- Has PDF menu: +2.
-- PDF is slow/ugly/not mobile-friendly: +2.
-- Tourist area: +2.
-- Visual dishes/cocktails: +2.
-- Active Instagram: +1.
-- Multi-language need: +1.
-- Owner-managed/independent: +1.
-- Premium positioning: +1.
+Incluir:
 
-Avoid early:
+- Todo Basic.
+- Categorías más vistas.
+- Productos más vistos.
+- Clicks en destacados básicos.
 
-- Very cheap bars with no visual intent.
-- Chains with complex procurement.
-- Restaurants with excellent custom digital menu already.
+#### Premium
 
-### Best early list
+Incluir:
 
-Build a spreadsheet/CRM with 200 restaurants:
+- Todo Essential.
+- Idiomas más usados.
+- Productos destacados vs normales.
+- Reproducciones de vídeo si hay add-on.
+- Tendencias semanales.
+- Informe mensual básico.
 
-- Name.
-- Website.
-- Current menu URL.
-- Menu type: PDF / website / Instagram / none.
-- Languages.
-- Visual score.
-- Owner/contact.
-- Phone.
-- Email.
-- Instagram.
-- Lead score.
-- Personalization angle.
-- Status.
+#### Personalizado
+
+Incluir:
+
+- Todo Premium.
+- Analytics avanzado.
+- Comparativas por local si multilocal.
+- Reportes personalizados.
+- Recomendaciones comerciales.
+- Análisis de platos de mayor margen.
 
 ---
 
-## 9. Cold call script
+## 11. Métricas internas de empresa
 
-### Opener
+Necesitamos tracking total para saber:
 
-> Hola, ¿hablo con el responsable del restaurante? Soy Kevin. Te llamo porque he visto vuestra carta actual y quería comentarte una mejora muy concreta: no es una agencia ni publicidad, es una carta QR visual que sustituye el PDF y permite enseñar platos con fotos/vídeo, varios idiomas y estadísticas de qué miran los clientes.
+- Qué convierte.
+- Qué clientes usan el producto.
+- Qué clientes tienen riesgo de churn.
+- Qué planes son más rentables.
+- Qué features impulsan conversión.
+- Cuánto cuesta gestionar fotos/vídeos.
+- Dónde se escapa margen.
 
-### Permission
+### Métricas financieras
 
-> ¿Te puedo explicar en 20 segundos por qué os puede interesar y si no encaja te dejo tranquilo?
+- MRR.
+- ARR.
+- Revenue de setups.
+- Revenue de add-ons.
+- ARPA.
+- ARPU.
+- LTV.
+- CAC.
+- Payback period.
+- Churn mensual.
+- Churn anual.
+- Expansion revenue.
+- Downgrades.
+- Upgrades.
+- Descuentos aplicados.
+- Trial to paid conversion.
+- Setup to subscription conversion.
+- Margen por cliente.
 
-### Pitch
+### Métricas comerciales
 
-> Ahora muchos restaurantes tienen un QR que abre un PDF. Funciona, pero en móvil suele ser incómodo, no destaca los platos que más os interesa vender y cada cambio implica rehacer archivos. Con PremiumMenuQR tenéis una carta móvil más cuidada, editable, con platos destacados, idiomas y analítica de escaneos/productos vistos.
+- Leads generados.
+- Leads contactados.
+- Calls realizadas.
+- Emails enviados.
+- WhatsApps enviados.
+- Respuestas.
+- Demos enviadas.
+- Demos vistas.
+- Reuniones agendadas.
+- Propuestas enviadas.
+- Cierres.
+- Motivos de pérdida.
+- Fuente de lead.
+- Tiempo medio hasta cierre.
+- Ticket medio por canal.
 
-### Diagnostic question
+### Métricas de onboarding
 
-> ¿Ahora mismo vuestra carta la actualizáis vosotros fácilmente o dependéis de PDF/diseño/terceros?
+- Signup started.
+- Signup completed.
+- Onboarding started.
+- Restaurante creado.
+- Branding completado.
+- Primer producto creado.
+- Primera categoría creada.
+- Menú previsualizado.
+- QR generado.
+- Checkout started.
+- Trial started.
+- Subscription active.
+- Tiempo hasta primer valor.
 
-### Value question
+### Métricas de uso del producto
 
-> ¿Tenéis clientes extranjeros o platos/cócteles que os gustaría enseñar de forma más visual?
+- Restaurantes activos.
+- Restaurantes sin actividad.
+- Cartas con productos creados.
+- Cartas sin QR generado.
+- Productos totales.
+- Categorías totales.
+- Idiomas activos.
+- QR scans totales.
+- Menu opens totales.
+- Product views totales.
+- Video plays totales.
+- Clientes con más uso.
+- Clientes con menos uso.
 
-### Close for demo
+### Métricas de contenido visual
 
-> Te puedo enviar una demo por WhatsApp para que veas exactamente cómo quedaría. Si te gusta, te hago una versión inicial con vuestra carta y lo vemos sin compromiso.
+- Fotos subidas por cliente.
+- Vídeos subidos por cliente.
+- Storage usado por cliente.
+- Storage total.
+- Clientes cerca del límite.
+- Packs de vídeo comprados.
+- Coste estimado de almacenamiento.
+- Tiempo de producción visual por setup.
+- Rentabilidad por setup visual.
+- Ratio vídeos creados > vídeos reproducidos.
 
-### If they say “send info”
+### Métricas de conversión de features
 
-> Perfecto. Para no mandarte algo genérico, ¿me confirmas si os interesa más mejorar imagen, tener varios idiomas o poder actualizar la carta sin PDFs?
+Medir qué activa mejor:
 
-### If they say “we already have QR”
+- Demo vista antes de signup.
+- Setup comprado.
+- Vídeo añadido.
+- Idiomas añadidos.
+- QR físico comprado.
+- Platos destacados configurados.
+- Analytics consultado.
 
-> Justamente. No va de tener QR, va de que lo que se abre después del QR venda mejor que un PDF.
+Objetivo:
 
----
-
-## 10. Cold email templates
-
-### Email 1: PDF/menu audit angle
-
-Subject: Vuestra carta QR podría vender más que un PDF
-
-Hola {{nombre}},
-
-he visto la carta de {{restaurante}} y quería proponerte una mejora muy concreta.
-
-Muchos restaurantes ya tienen QR, pero el QR suele abrir un PDF que en móvil no siempre ayuda a vender: cuesta leerlo, no destaca platos clave y no permite saber qué miran los clientes.
-
-Estoy creando PremiumMenuQR, una carta digital para restaurantes con:
-
-- carta móvil editable,
-- platos destacados,
-- opción de foto/vídeo,
-- varios idiomas,
-- analítica de escaneos y platos vistos.
-
-Te dejo una demo aquí: {{demo_url}}
-
-Si te encaja, puedo prepararte una versión inicial con vuestra carta para que veas cómo quedaría.
-
-Kevin
-
-### Follow-up 1
-
-Subject: Demo rápida para {{restaurante}}
-
-Hola {{nombre}},
-
-te reenvío esto porque creo que en vuestro caso tiene sentido por {{personalizacion}}.
-
-La idea no es “otro QR”, sino convertir la carta en una experiencia móvil más visual y fácil de actualizar.
-
-¿Te paso una demo por WhatsApp?
-
-Kevin
-
-### Follow-up 2
-
-Subject: De PDF estático a carta visual
-
-Hola {{nombre}},
-
-último mensaje por mi parte.
-
-Estoy buscando restaurantes en {{zona}} que quieran mejorar su carta QR sin complicarse con diseño, PDFs o imprenta.
-
-La opción más simple sería migraros la carta actual, dejaros el QR listo y que luego podáis editar platos/precios desde un panel.
-
-¿Te interesa que te enseñe un ejemplo?
-
-Kevin
-
----
-
-## 11. WhatsApp template
-
-Hola {{nombre}}, soy Kevin.
-
-He visto la carta de {{restaurante}} y quería enseñarte una idea rápida: una carta QR más visual que un PDF, con platos destacados, idiomas y estadísticas de escaneos/platos vistos.
-
-Te dejo una demo para que veas el concepto:
-{{demo_url}}
-
-Si te encaja, puedo prepararte una primera versión con vuestra carta y lo vemos sin compromiso.
-
----
-
-## 12. Sales pitch
-
-### 15-second pitch
-
-> PremiumMenuQR convierte el QR del restaurante en una carta visual, editable y multilingüe que ayuda a vender mejor los platos y permite saber qué miran los clientes.
-
-### 30-second pitch
-
-> Muchos restaurantes ya tienen QR, pero normalmente abre un PDF. Eso resuelve el acceso, pero no ayuda demasiado a vender. PremiumMenuQR convierte ese QR en una carta móvil premium: platos con imagen o vídeo, idiomas, productos destacados, cambios rápidos y analítica de escaneos y platos vistos. Además, si el restaurante no tiene tiempo, se lo dejamos montado.
-
-### In-person pitch
-
-> No vengo a venderte una web. Vengo a enseñarte cómo podría verse tu carta en el móvil de un cliente. Ahora mismo el QR suele ser un PDF; nosotros hacemos que sea una carta visual, actualizable y pensada para destacar los platos que os interesa vender. Te enseño una demo en 30 segundos y me dices si tendría sentido para vosotros.
+> Detectar qué combinación genera más conversión, retención y margen.
 
 ---
 
-## 13. Lead magnet
+## 12. Event taxonomy recomendada
 
-Best lead magnet:
-
-### “Auditoría gratuita de tu carta QR”
-
-Promise:
-
-> Te digo en 5 minutos si tu carta actual está perdiendo ventas por mala experiencia móvil, falta de idiomas, platos poco destacados o PDF difícil de actualizar.
-
-Delivery:
-
-- Landing page with form.
-- User submits restaurant URL/menu.
-- You return a mini audit by email/WhatsApp.
-
-Audit sections:
-
-1. Mobile readability.
-2. Speed/loading.
-3. Visual appeal.
-4. Multilingual readiness.
-5. Ability to update menu.
-6. Dish highlighting.
-7. Analytics/tracking.
-8. Recommended next step.
-
-Secondary lead magnets:
-
-- “Checklist: 12 errores de cartas QR que reducen ventas.”
-- “Calculadora: cuánto puedes ganar destacando platos de alto margen.”
-- “Plantilla de carta digital para restaurantes turísticos.”
-
----
-
-## 14. Onboarding flow
-
-The onboarding should minimize time-to-value.
-
-### Self-serve onboarding
-
-Step 0: Account created.
-
-Step 1: Restaurant basics.
-
-- Restaurant name.
-- Slug.
-- Logo optional.
-- Primary language.
-- Secondary languages optional.
-
-Step 2: Choose starting mode.
-
-- Start from scratch.
-- Import from PDF.
-- Use demo template.
-- Request done-for-you setup.
-
-Step 3: Create first category.
-
-Step 4: Add first product.
-
-Required fields only:
-
-- Name.
-- Price.
-- Category.
-
-Optional later:
-
-- Description.
-- Image.
-- Video.
-- Allergens.
-- Translations.
-- Featured/high-margin.
-
-Step 5: Preview public menu.
-
-Step 6: Generate QR.
-
-Step 7: Upgrade/checkout once value is visible.
-
-### Why this flow
-
-Do not force plan/payment before they understand value unless acquisition is high intent.
-
-The “aha moment” is:
-
-> I can see my restaurant menu live on mobile and scan the QR.
-
-So onboarding should push users to first live menu quickly.
-
-### High-touch onboarding
-
-For local sales:
-
-- You collect PDF/menu/logo/photos.
-- You build first version.
-- You send live demo.
-- Restaurant requests changes.
-- You activate subscription.
-- You deliver QR assets.
-
-This will convert better early than pure self-serve.
-
----
-
-## 15. Tracking and analytics
-
-Track two layers:
-
-1. **Marketing funnel analytics** — how leads become paying customers.
-2. **Restaurant menu analytics** — how diners use the menu.
-
-### Marketing funnel events
+### Marketing events
 
 - `landing_view`
 - `landing_cta_click`
 - `demo_view`
+- `pricing_view`
 - `lead_magnet_submit`
+- `contact_form_submit`
+- `whatsapp_click`
+- `call_click`
+- `demo_video_play`
+
+### Signup/onboarding events
+
 - `signup_started`
 - `signup_completed`
 - `onboarding_started`
 - `restaurant_created`
+- `branding_completed`
 - `setup_mode_selected`
 - `first_category_created`
 - `first_product_created`
@@ -738,9 +932,8 @@ Track two layers:
 - `checkout_completed`
 - `trial_started`
 - `subscription_active`
-- `setup_call_booked`
 
-### Restaurant menu events
+### Public menu events
 
 - `qr_scan`
 - `menu_open`
@@ -749,308 +942,637 @@ Track two layers:
 - `product_view`
 - `video_play`
 - `featured_product_click`
+- `recommended_product_click`
 - `allergen_view`
 - `share_click`
+- `reservation_click`
+- `phone_click`
+- `whatsapp_click`
 
-### Important properties
+### Admin events
 
-For marketing:
-
-- source
-- medium
-- campaign
-- landing_page
-- CTA
-- plan_selected
-- device
-- country/city when available
-
-For restaurant menu:
-
-- restaurant_id
-- menu_slug
-- table_id if QR per table exists later
-- language
-- category_id
-- product_id
-- event_type
-- device
-- referrer/source
-- session_id
-
-### Dashboard metrics for restaurants
-
-- Total QR scans.
-- Total menu opens.
-- Top viewed products.
-- Top video plays.
-- Language distribution.
-- Peak days/hours.
-- Featured product views.
-- Product view-to-video play rate.
-
-### Internal business metrics
-
-- Visitor → demo view rate.
-- Demo view → signup rate.
-- Signup → restaurant created rate.
-- Restaurant created → first product rate.
-- First product → QR generated rate.
-- QR generated → checkout rate.
-- Trial → paid conversion.
-- CAC.
-- MRR.
-- ARPA.
-- Churn.
-- Setup revenue.
+- `product_created`
+- `product_updated`
+- `category_created`
+- `language_enabled`
+- `video_uploaded`
+- `image_uploaded`
+- `featured_product_set`
+- `qr_downloaded`
+- `analytics_viewed`
+- `plan_upgraded`
+- `addon_purchased`
 
 ---
 
-## 16. Ads strategy
+## 13. Onboarding recomendado
 
-Do not start with broad ads.
+### Cambio importante
 
-### Phase 1: Retargeting and proof
+Quitar del onboarding el modo:
 
-Use small budget only after landing/demo/tracking are ready.
+- Importar por PDF.
 
-Audience:
+Motivo:
 
-- Website visitors.
-- Demo viewers.
-- Lead magnet submissions.
-- Instagram engagers if content is active.
+- Genera expectativa técnica complicada.
+- Puede fallar mucho.
+- Ensucia la experiencia inicial.
+- Mejor usar PDF como material interno si hacemos setup manual.
 
-Creative:
+### Modos recomendados
 
-- Before/after PDF vs PremiumMenuQR.
-- Screen recording of demo menu.
-- “Your QR can do more than open a PDF.”
+En “Elegir modo”, usar:
 
-### Phase 2: Local lead generation
+1. **Crear carta desde cero**
+   - Para self-serve.
 
-Meta ads:
+2. **Empezar con plantilla demo**
+   - Para ver valor rápido.
 
-- Target restaurant owners/managers indirectly through interests/location.
-- Girona/Costa Brava/Barcelona.
-- Offer: free QR menu audit.
+3. **Subir CSV/Excel**
+   - Solo si está preparado.
+   - Puede ser semi-manual al principio.
 
-Google Ads:
+4. **Solicitar setup hecho por nosotros**
+   - Para clientes con más intención y menos tiempo.
 
-- High intent keywords only.
-- Exact/phrase match first.
-- Landing pages by intent.
+### Flujo ideal
 
-Suggested Google Ads campaigns:
+1. Crear cuenta.
+2. Datos básicos del restaurante.
+3. Elegir modo.
+4. Elegir plan recomendado o setup.
+5. Crear primera categoría.
+6. Crear primer producto.
+7. Ver preview de carta.
+8. Generar QR.
+9. Completar branding.
+10. Añadir idiomas/imágenes/vídeos.
+11. Checkout/trial.
 
-1. carta digital restaurante
-2. menú QR restaurante
-3. carta QR restaurante
-4. carta digital con QR
-5. menú digital restaurantes
-6. carta restaurante online
-7. carta digital multilingüe restaurante
+### Principio clave
 
-Negative keywords:
+El “aha moment” es:
+
+> Ver mi carta en móvil y tener un QR escaneable.
+
+Todo el onboarding debe llegar a eso lo antes posible.
+
+No bloquear el primer preview pidiendo:
+
+- Logo perfecto.
+- Vídeos.
+- Traducciones completas.
+- Alérgenos.
+- Branding avanzado.
+
+Eso se puede pedir después.
+
+---
+
+## 14. Customer research
+
+Antes de escalar anuncios, hablar con clientes reales.
+
+### Entrevistas necesarias
+
+- 10 propietarios.
+- 5 gerentes.
+- 5 camareros.
+- 5 clientes finales.
+
+### Preguntas para propietarios/gerentes
+
+1. ¿Cómo acceden ahora los clientes a la carta?
+2. ¿Qué usáis: papel, QR, PDF, web, Instagram?
+3. ¿Qué problemas os da vuestra carta actual?
+4. ¿Cada cuánto cambiáis precios o platos?
+5. ¿Quién actualiza la carta?
+6. ¿Tenéis clientes extranjeros?
+7. ¿Qué idiomas necesitáis?
+8. ¿Qué platos os interesa vender más?
+9. ¿Qué productos tienen más margen?
+10. ¿Tenéis platos de temporada?
+11. ¿Sabéis qué platos mira más la gente?
+12. ¿Os interesa saber qué platos generan más atención?
+13. ¿Preferiríais montarlo vosotros o que os lo entreguen hecho?
+14. ¿Cuánto pagaríais por setup?
+15. ¿Cuánto pagaríais al mes?
+16. ¿Qué os frenaría para contratarlo?
+17. ¿Qué tendría que incluir para que fuera obvio decir que sí?
+18. ¿Os interesaría también web y SEO?
+19. ¿Os interesarían QR físicos personalizados?
+20. ¿Qué material os gustaría: pegatinas, placas, madera, acrílico?
+
+### Preguntas para camareros
+
+1. ¿Qué preguntas repiten los clientes sobre la carta?
+2. ¿Los turistas entienden bien los platos?
+3. ¿Qué platos son difíciles de explicar?
+4. ¿Qué platos recomendáis más?
+5. ¿Una carta visual os ayudaría?
+6. ¿Qué información falta normalmente?
+
+### Preguntas para clientes finales
+
+1. ¿Te gusta usar QR en restaurantes?
+2. ¿Qué te molesta de una carta QR?
+3. ¿Prefieres PDF o carta móvil navegable?
+4. ¿Te ayudan las fotos/vídeos?
+5. ¿Te importa poder cambiar idioma?
+6. ¿Qué te hace pedir un plato que no conoces?
+
+---
+
+## 15. Lead sourcing
+
+### Fuentes de leads
+
+- Google Maps.
+- Webs de restaurantes.
+- Instagram.
+- TheFork.
+- TripAdvisor.
+- Directorios locales.
+- Rutas físicas por zonas de restaurantes.
+- QR visibles en mesas.
+- Cartas PDF públicas.
+- Restaurantes con buena imagen pero mala carta.
+- Restaurantes turísticos sin idiomas.
+
+### Campos del CRM
+
+- Nombre del restaurante.
+- Ciudad/zona.
+- Web.
+- Instagram.
+- Teléfono.
+- Email.
+- Responsable si se conoce.
+- Tipo de carta actual.
+- URL de carta actual.
+- Idiomas actuales.
+- Problema detectado.
+- Visual score.
+- Tourist score.
+- Lead score.
+- Plan recomendado.
+- Setup recomendado.
+- Último contacto.
+- Estado.
+- Motivo de pérdida.
+
+### Lead scoring
+
+- Tiene PDF: +2.
+- PDF lento/feo/no mobile: +2.
+- Zona turística: +2.
+- Platos/cócteles visuales: +2.
+- Instagram activo: +1.
+- Necesidad multidioma: +1.
+- Restaurante independiente: +1.
+- Posicionamiento premium: +1.
+- Carta sin analytics: +1.
+- Web mala o inexistente: +2.
+
+Priorizar leads de 7+ puntos.
+
+---
+
+## 16. Lead magnet
+
+El lead magnet principal debe ser:
+
+> Auditoría gratuita de tu carta QR.
+
+Promesa:
+
+> Te digo en 5 minutos si tu carta actual está perdiendo ventas por mala experiencia móvil, falta de idiomas, platos poco destacados o PDF difícil de actualizar.
+
+Formato:
+
+- Formulario simple.
+- URL de carta actual.
+- Nombre del restaurante.
+- WhatsApp/email.
+- Resultado por vídeo corto o mensaje personalizado.
+
+Variantes:
+
+1. Auditoría de carta QR.
+2. Antes/después de tu carta actual.
+3. Demo personalizada con 5 productos.
+4. Checklist “7 errores de cartas QR que hacen perder ventas”.
+
+Mejor para venta directa:
+
+> Te preparo una mini demo con 5 platos de tu carta.
+
+---
+
+## 17. Cold call
+
+### Apertura
+
+> Hola, ¿hablo con el responsable del restaurante? Soy Kevin. Te llamo porque he visto vuestra carta actual y quería comentarte una mejora muy concreta. No es publicidad ni una agencia: es una carta QR visual que sustituye el PDF y permite enseñar los platos de forma más clara, con idiomas y estadísticas de uso. ¿Te puedo explicar en 20 segundos y si no encaja te dejo tranquilo?
+
+### Desarrollo
+
+> Ahora muchos restaurantes tienen un QR que abre un PDF. Funciona, pero en móvil suele ser incómodo, no destaca los platos que más os interesa vender y no os dice qué mira la gente. PremiumMenuQR convierte ese QR en una carta móvil más visual, editable, con idiomas, platos destacados y analítica.
+
+### Pregunta de diagnóstico
+
+> ¿Ahora vuestra carta la actualizáis fácilmente o dependéis de PDF/diseño/terceros?
+
+### Cierre suave
+
+> Te puedo enviar una demo por WhatsApp para que veas cómo quedaría. Si te gusta, incluso puedo prepararte una versión inicial con vuestra carta y lo valoramos.
+
+### Si dice “ya tenemos QR”
+
+> Perfecto, justo por eso te llamo. No se trata de tener QR, sino de lo que pasa después de escanearlo. Si ahora abre un PDF, la mejora es convertirlo en una carta visual, editable y con métricas.
+
+### Si dice “no tengo tiempo”
+
+> Precisamente lo planteamos con setup hecho por nosotros. Nos pasáis carta o Excel y os lo dejamos montado.
+
+### Si dice “es caro”
+
+> Lo entiendo. Por eso tenemos opciones simples desde carta básica sin imágenes hasta carta premium con vídeos e idiomas. La idea es adaptarlo al tipo de restaurante, no venderte algo sobredimensionado.
+
+---
+
+## 18. Cold email
+
+### Email 1
+
+Asunto:
+
+> Vuestra carta QR podría vender más que un PDF
+
+Cuerpo:
+
+> Hola {{nombre}},
+>
+> he visto la carta de {{restaurante}} y quería proponerte una mejora muy concreta.
+>
+> Muchos restaurantes ya tienen QR, pero el QR suele abrir un PDF que en móvil no siempre ayuda a vender: cuesta leerlo, no destaca platos clave y no permite saber qué miran los clientes.
+>
+> Estoy creando PremiumMenuQR, una carta digital para restaurantes con carta móvil editable, platos destacados, opción de foto/vídeo, varios idiomas y analítica de escaneos/productos vistos.
+>
+> Te dejo una demo aquí: {{demo_url}}
+>
+> Si te encaja, puedo prepararte una versión inicial con vuestra carta para que veas cómo quedaría.
+>
+> Kevin
+
+### Email 2 — follow-up
+
+Asunto:
+
+> Idea rápida para {{restaurante}}
+
+Cuerpo:
+
+> Hola {{nombre}},
+>
+> te escribo de nuevo porque creo que en vuestro caso tendría sentido sobre todo por {{motivo_personalizado}}.
+>
+> La idea no es cambiar vuestra cocina ni vuestra marca, sino mejorar cómo se ve la carta cuando alguien escanea el QR: más clara, visual, editable y con idiomas si lo necesitáis.
+>
+> ¿Te preparo una mini demo con 5 platos para que lo veas aplicado a vuestra carta?
+
+### WhatsApp
+
+> Hola {{nombre}}, soy Kevin. Te paso una demo rápida de una carta QR visual para restaurantes. La idea es sustituir el PDF por una carta móvil más clara, con platos destacados, idiomas y estadísticas. Si te encaja, puedo prepararte una versión inicial con vuestra carta.
+
+---
+
+## 19. Google Ads
+
+No empezar fuerte hasta tener:
+
+- Landing clara.
+- Demos.
+- Tracking.
+- Oferta validada.
+- Al menos 3–5 cierres manuales.
+
+### Campañas iniciales
+
+Solo exact/phrase match con intención alta.
+
+Keywords:
+
+- carta digital restaurante
+- menú QR restaurante
+- carta QR restaurante
+- carta restaurante online
+- carta digital con QR
+- menú digital restaurante
+- carta digital multilingüe restaurante
+- carta digital para bares
+- carta digital para restaurantes
+
+Negativas:
 
 - gratis
 - free
 - plantilla
-- canva
+- Canva
 - imprimir
-- código QR gratis
 - generador QR gratis
 - empleo
 - curso
+- cómo hacer
 
-### Phase 3: scale after proof
+### Landing de ads
 
-Only increase budget when:
+No mandar a home genérica. Crear landing específica:
 
-- Demo conversion is proven.
-- Setup call booking works.
-- Trial-to-paid is measured.
-- You know which segment converts.
+- `carta-digital-restaurantes`
+- `menu-qr-restaurantes`
+- `carta-digital-restaurantes-girona`
+
+CTA principal:
+
+- Ver demo.
+- Solicitar auditoría.
+- Solicitar setup.
 
 ---
 
-## 17. Content strategy
+## 20. Meta Ads
 
-### Content pillars
+Meta debe vender visualmente.
 
-1. **Carta QR / digital menu education**
-2. **Restaurant sales psychology**
-3. **Multilingual menus for tourism**
-4. **Visual menus and video**
-5. **Analytics for restaurants**
-6. **Before/after transformations**
-7. **Local restaurant growth**
+### Creatividades
 
-### SEO pages
+1. Antes/después PDF vs carta PremiumMenuQR.
+2. Vídeo de pantalla de 20 segundos.
+3. Demo de carta con platos visuales.
+4. QR físico premium en mesa.
+5. “Tu carta QR puede vender más que un PDF”.
+6. “¿Tus turistas entienden tu carta?”.
 
-Create intent-specific pages:
+### Audiencias
+
+- Restaurantes.
+- Hostelería.
+- Emprendedores restauración.
+- Intereses en gastronomía/negocio local.
+- Retargeting de visitas.
+- Lookalike cuando haya datos suficientes.
+
+### Campañas iniciales
+
+- Retargeting.
+- Lead magnet.
+- Demo visual.
+
+No usar Meta como canal principal hasta tener buen material visual.
+
+---
+
+## 21. Contenido orgánico
+
+### Pilares de contenido
+
+1. Errores de cartas QR.
+2. Antes/después de cartas reales.
+3. Cómo vender más platos destacados.
+4. Multidioma para restaurantes turísticos.
+5. Platos con vídeo.
+6. Analytics para restaurantes.
+7. QR físicos premium.
+8. Carta + web + SEO.
+9. Casos de uso por tipo de restaurante.
+
+### Formatos
+
+- Reels/TikTok con demos.
+- Carruseles de antes/después.
+- Posts educativos LinkedIn/Instagram.
+- Blog SEO.
+- Mini auditorías de cartas.
+- Vídeos de visitas a restaurantes.
+
+### SEO programático controlado
+
+Crear páginas con intención real:
 
 - `/carta-digital-restaurantes`
 - `/menu-qr-restaurantes`
-- `/carta-qr-restaurantes`
 - `/carta-digital-con-video`
-- `/menu-digital-multilingue-restaurantes`
+- `/carta-digital-multilingue-restaurantes`
 - `/carta-digital-restaurantes-girona`
 - `/menu-qr-restaurantes-costa-brava`
 - `/carta-digital-restaurantes-barcelona`
 
-Each page needs:
+Cada página debe tener:
 
-- Unique intent.
-- Demo section.
-- Problem/solution.
-- Screenshots/video.
-- Pricing/setup CTA.
-- FAQ.
+- Demo.
+- Casos de uso.
+- FAQs.
+- Antes/después.
+- CTA.
 - Schema.
-- Internal links.
-
-### Social content ideas
-
-- “Tu QR abre un PDF. Este es el problema.”
-- “3 formas de vender más platos con tu carta.”
-- “Cómo una carta visual ayuda a vender postres/cócteles.”
-- “Antes/después de una carta QR.”
-- “Errores de cartas digitales en restaurantes turísticos.”
-- “Qué platos miran más tus clientes.”
-- “Cómo preparar una carta para turistas en Costa Brava.”
 
 ---
 
-## 18. Competitor strategy
+## 22. Competidores
 
-### Competitor categories
+### Tipos de competidores
 
-1. PDF/Drive/Canva menus.
-2. Generic QR menu builders.
-3. Restaurant OS platforms with ordering/payment/reservations.
-4. POS/delivery platforms with QR ordering.
-5. Emerging video-menu products.
+1. PDFs/Canva/Google Drive.
+2. Generadores QR gratuitos.
+3. Cartas digitales simples.
+4. Plataformas de pedidos/pagos/reservas.
+5. Agencias que hacen webs para restaurantes.
+6. Herramientas de carta con QR + ordering.
 
-### How to differentiate
+### Diferenciación
 
-Against PDFs:
+PremiumMenuQR debe ser:
 
-- editable, mobile-first, analytics, visual selling.
+- Más simple que un software integral.
+- Más premium que un PDF.
+- Más visual que una carta QR genérica.
+- Más útil que una web estática.
+- Más fácil que hacerlo todo internamente.
 
-Against generic QR tools:
+### Matriz competitiva
 
-- premium visual experience, video, multilingual, restaurant-specific analytics.
+Comparar por:
 
-Against restaurant OS tools:
+- Diseño móvil.
+- Imágenes.
+- Vídeo.
+- Idiomas.
+- Analytics.
+- QR físico.
+- Setup hecho por proveedor.
+- Web + SEO.
+- Facilidad de actualización.
+- Precio.
+- Soporte local.
 
-- simpler, lighter, focused on menu presentation and sales, not replacing POS.
+### Estrategia frente a competidores baratos
 
-Against video-menu competitors:
+No decir:
 
-- combine video + dashboard + QR + analytics + local done-for-you setup.
+> Somos más baratos.
 
----
+Decir:
 
-## 19. 90-day action plan
-
-### Days 1-14: proof assets
-
-- Create 3 demos.
-- Create landing V2.
-- Add tracking plan.
-- Create lead magnet landing.
-- Create sales one-pager.
-- Build 200-lead CRM.
-
-### Days 15-30: local validation
-
-- Call/contact 50 restaurants.
-- Visit 10 in person.
-- Run 10 customer interviews.
-- Close 3 pilot customers.
-- Offer discounted setup for testimonial.
-
-### Days 31-60: convert and document
-
-- Turn pilots into case studies.
-- Refine pricing.
-- Improve onboarding based on real friction.
-- Launch Google Ads exact-match small budget.
-- Launch Meta retargeting.
-- Publish 4 SEO pages.
-
-### Days 61-90: scale what works
-
-- Expand to 500 leads.
-- Create outbound system.
-- Publish comparison/before-after pages.
-- Add annual plans.
-- Add referral/partner channel.
-- Start partnerships with photographers, restaurant consultants and local agencies.
+> No vendemos solo un QR. Te dejamos una carta visual, actualizable y pensada para vender mejor tus platos.
 
 ---
 
-## 20. Agent workflow
+## 23. Sales enablement assets
 
-For each growth task, use these skills:
+Necesitamos crear:
 
-### CRO sprint
-
-- `cro`
-- `copywriting`
-- `marketing-psychology`
-- `ab-testing`
-
-### Acquisition sprint
-
-- `prospecting`
-- `cold-email`
-- `sales-enablement`
-- `lead-magnets`
-- `ads`
-
-### SEO sprint
-
-- `site-architecture`
-- `programmatic-seo`
-- `seo-audit`
-- `schema`
-- `content-strategy`
-- `ai-seo`
-
-### Activation sprint
-
-- `signup`
-- `onboarding`
-- `analytics`
-- `pricing`
-- `churn-prevention`
-
-### Research sprint
-
-- `customer-research`
-- `competitor-profiling`
-- `competitors`
-- `marketing-ideas`
+1. One-page comercial PDF.
+2. Demo pública premium.
+3. Demo pública simple.
+4. Demo pública turística.
+5. Vídeo de pantalla de 20 segundos por demo.
+6. WhatsApp pitch.
+7. Email sequence.
+8. Script de cold call.
+9. Comparativa PDF vs PremiumMenuQR.
+10. Mockup de QR físico en mesa.
+11. Checklist de auditoría.
+12. Pricing sheet.
+13. Documento de setups.
+14. Mini caso de uso.
+15. Propuesta comercial editable.
 
 ---
 
-## Final recommendation
+## 24. Plan de 90 días
 
-The most likely winning path is not pure SaaS self-serve at the beginning.
+### Días 1–14
 
-The winning path is:
+- Crear 3 demos.
+- Crear layouts digitales de QR.
+- Definir opciones físicas de QR.
+- Rehacer landing con demo-first.
+- Implementar tracking básico.
+- Crear pricing nuevo.
+- Crear one-pager comercial.
+- Crear lead magnet.
+- Crear CRM de 200 leads.
 
-> Sell PremiumMenuQR manually as a premium done-for-you digital menu transformation for restaurants, then retain them on monthly SaaS.
+### Días 15–30
 
-Once you have proof, demos, analytics and case studies, turn that into:
+- Contactar 50 restaurantes.
+- Visitar 10 restaurantes.
+- Hacer 10 entrevistas.
+- Enviar 20 demos por WhatsApp.
+- Cerrar 3 pilotos.
+- Testear Setup Básico y Setup Visual.
+- Recoger objeciones.
 
-- SEO pages.
-- Paid ads.
-- Automated onboarding.
-- Cold email sequences.
-- Sales scripts.
-- Partner channels.
+### Días 31–60
 
-This lets you validate with revenue instead of waiting months for organic traffic or burning budget on ads too early.
+- Convertir pilotos en casos.
+- Ajustar pricing.
+- Mejorar onboarding.
+- Crear páginas SEO principales.
+- Lanzar Google Ads exact match con bajo presupuesto.
+- Lanzar Meta retargeting.
+- Medir demo > lead > cierre.
+
+### Días 61–90
+
+- Escalar a 500 leads.
+- Sistematizar outbound.
+- Añadir partner de foto/vídeo si hace falta.
+- Añadir packs físicos de QR.
+- Cerrar primeros anuales.
+- Validar Web + SEO + Carta.
+- Revisar rentabilidad por plan/setup.
+
+---
+
+## 25. Prompt maestro para usar con agentes
+
+Usar este prompt desde Cursor/Claude/Codex cuando quieras aplicar las skills de marketing al producto:
+
+```text
+Usa este playbook de PremiumMenuQR como contexto estratégico.
+Actúa como un equipo combinado de CRO Agent, Pricing Agent, Customer Research Agent, Analytics Agent, SEO Agent, Paid Ads Agent, Cold Outreach Agent y Onboarding Agent.
+
+Objetivo: maximizar conversiones, cierres comerciales y MRR sin ensuciar el producto ni competir como menú QR barato.
+
+Analiza la parte que te indique y devuelve:
+1. diagnóstico,
+2. oportunidades,
+3. prioridad,
+4. cambios concretos,
+5. copy recomendado,
+6. eventos de tracking necesarios,
+7. riesgos,
+8. próximos pasos.
+
+No apliques cambios en código hasta que se pidan explícitamente.
+```
+
+---
+
+## 26. Decisiones pendientes
+
+1. Elegir nombre final entre **Essential** y **Core**.
+   - Recomendación: Essential.
+
+2. Confirmar precios finales:
+   - Basic QR: 19 €/mes.
+   - Essential: 39 €/mes.
+   - Premium: 59 €/mes.
+   - Personalizado: desde 89 €/mes o presupuesto.
+
+3. Confirmar precios de setup:
+   - Básico: 149–249 €.
+   - Visual: 399–599 €.
+   - Premium: 799–1.200 €.
+   - Personalizado: presupuesto.
+
+4. Definir límites reales de almacenamiento/vídeo.
+
+5. Definir catálogo físico de QR.
+
+6. Crear demos reales.
+
+7. Validar con 10 entrevistas antes de escalar ads.
+
+---
+
+## 27. Recomendación final
+
+La estrategia más fuerte es:
+
+> PremiumMenuQR como carta visual premium hecha por nosotros al inicio + SaaS mensual detrás.
+
+No lanzar primero como self-serve puro.
+
+Primero vender manualmente:
+
+1. Diagnosticar carta actual.
+2. Enseñar demo.
+3. Ofrecer setup.
+4. Dejar carta funcionando.
+5. Cobrar suscripción.
+6. Medir uso.
+7. Convertir clientes en casos.
+8. Escalar con outbound, SEO y ads.
+
+El producto debe vender control, imagen y simplicidad:
+
+- Control sobre qué ve el cliente.
+- Imagen más premium.
+- Simplicidad para actualizar.
+- Métricas para mejorar decisiones.
+- Setup para no perder tiempo.
